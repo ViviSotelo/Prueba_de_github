@@ -1,0 +1,1 @@
+console.log('Esto lo veo en la terminal');
